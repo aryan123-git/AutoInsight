@@ -1,0 +1,22 @@
+transaction_id,date,customer_id,category,product_name,price,quantity,discount
+T1001,2023-10-01,C001,Electronics,Smartphone,699.99,1,0.0
+T1002,2023-10-01,C002,Clothing,T-Shirt,19.99,3,0.1
+T1003,2023-10-02,C003,Home,Coffee Maker,89.50,1,0.0
+T1004,2023-10-02,C001,Electronics,Laptop,1199.00,1,0.05
+T1005,2023-10-03,C004,Clothing,Jeans,49.99,2,0.0
+T1006,2023-10-03,,Beauty,Moisturizer,24.00,1,0.0
+T1007,2023-10-04,C005,Electronics,Smart Watch,199.99,1,0.1
+T1008,2023-10-04,C002,Home,Blender,,1,0.0
+T1008,2023-10-04,C002,Home,Blender,,1,0.0
+T1009,2023-10-05,C006,Clothing,Jacket,120.00,1,0.2
+T1010,2023-10-05,C007,Electronics,Headphones,149.99,2,0.0
+T1011,2023-10-06,C008,Beauty,Perfume,85.00,1,0.05
+T1012,2023-10-06,C009,Home,Desk Lamp,35.00,2,0.0
+T1013,2023-10-07,C010,Clothing,Sneakers,89.99,1,0.1
+T1014,2023-10-07,C001,Electronics,Tablet,349.99,1,0.0
+T1015,2023-10-08,C011,Toys,Action Figure,15.99,4,0.0
+T1016,2023-10-08,C012,Electronics,Charger,25.00,2,0.0
+T1017,2023-10-09,C003,Home,Microwave,120.00,1,0.1
+T1018,2023-10-09,C013,Beauty,Lipstick,18.50,3,0.0
+T1019,2023-10-10,C014,Clothing,Socks,9.99,5,0.0
+T1020,2023-10-10,C015,Electronics,Monitor,249.99,1,0.05
